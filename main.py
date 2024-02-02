@@ -7,10 +7,10 @@ from selenium.webdriver.chrome.service import Service
 
 PROMISED_DOWN= 150
 PROMISED_UP=10
-TWITTER_EMAIL="onlygalmost@gmail.com"
-TWITTER_PASSWORD="gnk784512"
+TWITTER_EMAIL="your mail"
+TWITTER_PASSWORD="your pass"
 
-PATH="C:/Program Files (x86)/chromedriver-win32/chromedriver.exe"
+PATH="your driver path"
 driver=webdriver.Chrome(PATH)
 
 
